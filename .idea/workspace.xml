@@ -67,7 +67,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/mlrose" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1S24ZjyJ58KE2RtuXtk4FTb6UYm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -158,6 +158,7 @@
       <updated>1570748413669</updated>
       <workItem from="1570748418064" duration="62000" />
       <workItem from="1570748485304" duration="9338000" />
+      <workItem from="1570998207522" duration="247000" />
     </task>
     <servers />
   </component>
@@ -169,7 +170,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
