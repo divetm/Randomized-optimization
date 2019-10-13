@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed90f43c-d3a2-479a-a38a-274d4d1d1add" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/algorithms/crossovers/one_point_crossover.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/algorithms/crossovers/one_point_crossover.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/algorithms/crossovers/tsp_crossover.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/algorithms/crossovers/tsp_crossover.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/algorithms/crossovers/uniform_crossover.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/algorithms/crossovers/uniform_crossover.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/algorithms/ga.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/algorithms/ga.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/algorithms/gd.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/algorithms/gd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/algorithms/hc.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/algorithms/hc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/algorithms/mimic.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/algorithms/mimic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/algorithms/mutators/change_one_mutator.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/algorithms/mutators/change_one_mutator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/algorithms/mutators/discrete_mutator.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/algorithms/mutators/discrete_mutator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/algorithms/mutators/shift_one_mutator.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/algorithms/mutators/shift_one_mutator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/algorithms/mutators/swap_mutator.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/algorithms/mutators/swap_mutator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/algorithms/rhc.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/algorithms/rhc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/algorithms/sa.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/algorithms/sa.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/fitness/continuous_peaks.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/fitness/continuous_peaks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/fitness/four_peaks.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/fitness/four_peaks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/fitness/six_peaks.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/fitness/six_peaks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/generators/flip_flop_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/generators/flip_flop_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/generators/knapsack_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/generators/knapsack_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/generators/max_k_color_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/generators/max_k_color_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/generators/queens_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/generators/queens_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/generators/tsp_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/generators/tsp_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/neural/_nn_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/neural/_nn_base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/neural/_nn_core.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/neural/_nn_core.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/neural/activation/identity.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/neural/activation/identity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/neural/activation/relu.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/neural/activation/relu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/neural/activation/sigmoid.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/neural/activation/sigmoid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/neural/activation/softmax.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/neural/activation/softmax.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/neural/activation/tanh.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/neural/activation/tanh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/neural/fitness/network_weights.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/neural/fitness/network_weights.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/neural/linear_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/neural/linear_regression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/neural/logistic_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/neural/logistic_regression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/neural/neural_network.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/neural/neural_network.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/neural/nn_classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/neural/nn_classifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/opt_probs/continuous_ppt.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/opt_probs/continuous_ppt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/opt_probs/discrete_opt.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/opt_probs/discrete_opt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/opt_probs/flip_flop_opt.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/opt_probs/flip_flop_opt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/opt_probs/knapsack_opt.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/opt_probs/knapsack_opt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/opt_probs/max_k_color_opt.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/opt_probs/max_k_color_opt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/opt_probs/queens_opt.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/opt_probs/queens_opt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/opt_probs/tsp_opt.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/opt_probs/tsp_opt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/runners/_nn_runner_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/runners/_nn_runner_base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/runners/_runner_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/runners/_runner_base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/runners/ga_runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/runners/ga_runner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/runners/mimic_runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/runners/mimic_runner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/runners/nngs_runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/runners/nngs_runner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/runners/rhc_runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/runners/rhc_runner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/runners/sa_runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/runners/sa_runner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/mlrose/runners/skmlp_runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/mlrose/runners/skmlp_runner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/tests/test_activation.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/tests/test_activation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/tests/test_algorithms.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/tests/test_algorithms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/tests/test_decay.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/tests/test_decay.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/tests/test_fitness.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/tests/test_fitness.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/tests/test_neural.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/tests/test_neural.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlrose/tests/test_opt_probs.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/tests/test_opt_probs.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/mlrose" />
+  </component>
+  <component name="ProjectId" id="1S24ZjyJ58KE2RtuXtk4FTb6UYm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.optimizing_weights_nn_tumor_classification_problem">
+    <configuration name="four_peaks_problem" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/four_peaks_problem.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="optimizing_weights_nn_tumor_classification_problem" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/optimizing_weights_nn_tumor_classification_problem.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.optimizing_weights_nn_tumor_classification_problem" />
+        <item itemvalue="Python.four_peaks_problem" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed90f43c-d3a2-479a-a38a-274d4d1d1add" name="Default Changelist" comment="" />
+      <created>1570748413669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570748413669</updated>
+      <workItem from="1570748418064" duration="62000" />
+      <workItem from="1570748485304" duration="9338000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mlrose/mlrose/opt_probs/flip_flop_opt.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Code$four_peaks_problem.coverage" NAME="four_peaks_problem Coverage Results" MODIFIED="1570755068110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Code$optimizing_weights_nn_tumor_classification_problem.coverage" NAME="optimizing_weights_nn_tumor_classification_problem Coverage Results" MODIFIED="1570759529381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
