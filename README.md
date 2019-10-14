@@ -25,7 +25,7 @@ This package is a clone from Andrew Rolling's take on the mlrose package origina
 This package allows to implement a number of Machine Learning, Randomized Optimization and SEarch algorithms. You can find its documentation here https://mlrose.readthedocs.io/.
 Andrew Rolling's fork has solved some issues regarding Genetic Algorithms and sped up the MIMIC algorithm (using David S. Park's work - https://github.com/parkds/mlrose).
 
-3_color_problem.py, four_peaks_problem.py, knapsack_problem.py
+3_color_problem.py, four_peaks_problem.py and knapsack_problem.py
 ----
 Each of these Python scripts represents the study of a particular optimization problem: k-color problem, four peaks problem and the knapsack problem. In each of these studies, we apply the 4 optimization algorithms to try and solve them. When ran, these scripts create csv files containing all the stats of their computations (fitness against iterations, attempts, the actual states considered...). It is important to modify the ```output_directory``` argument in these algorithms to set where these files should be saved.
 From this files, we were able to extract all the important data showcased in the assignment paper (like graphs).

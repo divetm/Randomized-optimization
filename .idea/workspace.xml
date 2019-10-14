@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed90f43c-d3a2-479a-a38a-274d4d1d1add" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/k_color_problem.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_color_problem.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_color_problem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_color_problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/four_peaks_problem.py" beforeDir="false" afterPath="$PROJECT_DIR$/four_peaks_problem.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/knapsack_problem.py" beforeDir="false" afterPath="$PROJECT_DIR$/knapsack_problem.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mlrose" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose" afterDir="false" />
@@ -64,7 +66,6 @@
       <change beforePath="$PROJECT_DIR$/mlrose/tests/test_fitness.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/tests/test_fitness.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mlrose/tests/test_neural.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/tests/test_neural.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mlrose/tests/test_opt_probs.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlrose/tests/test_opt_probs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/optimizing_weights_nn_tumor_classification_problem.py" beforeDir="false" afterPath="$PROJECT_DIR$/optimizing_weights_nn_tumor_classification_problem.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +102,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.optimizing_weights_nn_tumor_classification_problem">
+  <component name="RunManager" selected="Python.3_color_problem">
     <configuration name="3_color_problem" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -115,7 +116,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_color_problem.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/k_color_problem.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,10 +193,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.optimizing_weights_nn_tumor_classification_problem" />
-        <item itemvalue="Python.four_peaks_problem" />
-        <item itemvalue="Python.knapsack_problem" />
         <item itemvalue="Python.3_color_problem" />
+        <item itemvalue="Python.knapsack_problem" />
+        <item itemvalue="Python.four_peaks_problem" />
+        <item itemvalue="Python.optimizing_weights_nn_tumor_classification_problem" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +213,7 @@
       <workItem from="1570748418064" duration="62000" />
       <workItem from="1570748485304" duration="9338000" />
       <workItem from="1570998207522" duration="500000" />
-      <workItem from="1570998874817" duration="6784000" />
+      <workItem from="1570998874817" duration="10609000" />
     </task>
     <servers />
   </component>
@@ -244,9 +245,9 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Code$3_color_problem.coverage" NAME="3_color_problem Coverage Results" MODIFIED="1571005528605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Code$knapsack_problem.coverage" NAME="knapsack_problem Coverage Results" MODIFIED="1571005532293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Code$four_peaks_problem.coverage" NAME="four_peaks_problem Coverage Results" MODIFIED="1571008525772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Code$3_color_problem.coverage" NAME="3_color_problem Coverage Results" MODIFIED="1571022285825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Code$knapsack_problem.coverage" NAME="knapsack_problem Coverage Results" MODIFIED="1571021506013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Code$optimizing_weights_nn_tumor_classification_problem.coverage" NAME="optimizing_weights_nn_tumor_classification_problem Coverage Results" MODIFIED="1571010616941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Code$four_peaks_problem.coverage" NAME="four_peaks_problem Coverage Results" MODIFIED="1571019916246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
