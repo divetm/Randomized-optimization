@@ -9,7 +9,7 @@ rhc = mlrose.RHCRunner(problem=problem,
                        output_directory="/Users/matthieudivet/Desktop/GaTech/Classes/ML/Assignments/Randomized_optimization/four_peaks_problem/RHC",
                        seed=None,
                        iteration_list=2 ** np.arange(12),
-                       max_attempts=5000,
+                       max_attempts=1000,
                        restart_list=[0, 10, 100])
 rhc_run_stats, rhc_run_curves = rhc.run()
 
@@ -19,8 +19,8 @@ sa = mlrose.SARunner(problem=problem,
                      output_directory="/Users/matthieudivet/Desktop/GaTech/Classes/ML/Assignments/Randomized_optimization/four_peaks_problem/SA",
                      seed=None,
                      iteration_list=2 ** np.arange(12),
-                     max_attempts=5000,
-                     # temperature_list=[1, 10, 50, 100, 250, 500, 1000, 2500, 5000, 10000],
+                     max_attempts=1000,
+                     temperature_list=[1, 10, 50, 100, 250, 500, 1000, 2500, 5000, 10000],
                      decay_list=[mlrose.ExpDecay, mlrose.GeomDecay, mlrose.ArithDecay])
 sa_run_stats, sa_run_curves = sa.run()
 
@@ -33,8 +33,6 @@ ga = mlrose.GARunner(problem=problem,
                      max_attempts=1000,
                      population_sizes=[150, 200, 300],
                      mutation_rates=[0.1, 0.3, 0.5, 0.6])
-print("GA Best state {}".format(ga[0]))
-print("GA Best fitness {}".format(ga[1]))
 ga_run_stats, ga_run_curves = ga.run()
 
 
